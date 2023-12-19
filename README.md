@@ -1,6 +1,6 @@
 ## atenshy 🐱‍👤🐱‍👤
 
-<img src="https://raw.githubusercontent.com/a10shy/malayalam-tacotron2/main/stats.svg">
+<img src="https://raw.githubusercontent.com/a10shy/show-off/main/stats.svg">
 
 <!--
 **a10shy/a10shy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
