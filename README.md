@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/a10shy/{YOUR FORKED REPO: default: ishowoff}/main/stats.svg">
+<img src="https://raw.githubusercontent.com/a10shy/ishowoff/main/stats.svg">
 
 <!--
 **a10shy/a10shy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
